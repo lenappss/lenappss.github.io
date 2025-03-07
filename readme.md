@@ -52,7 +52,7 @@ The work diary highlights progress on additive and vector synthesis modules, cha
 
 Week 1:
 
-- Finishing chapters onadditive and vector synthesis (Cipriani book).
+- Finishing chapters on additive and vector synthesis (Cipriani book).
 - Draft technical plan for MAX MSP implementation.
   
 Week 2:

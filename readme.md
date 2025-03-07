@@ -49,6 +49,20 @@ Future work could expand the synthesizer with additional synthesis methods (e.g.
 
 ### Work Diary
 The work diary highlights progress on additive and vector synthesis modules, challenges in MAX MSP implementation, and lessons learned from experimentation.
+Week 1:
+ Finishing chapters onadditive and vector synthesis (Cipriani book).
+ Draft technical plan for MAX MSP implementation.
+Week 2:
+ Build additive synthesis module in MAX MSP.
+Week 3:
+ Build vector synthesis module.
+Week 4:
+ Initial testing and debugging.
+Week 5:
+ Document results and refine system.
+ Finalize the prototype.
+ Prepare final documentatin.
+
 
 ### Reflection on Technical Choices
 - **Why did you make the choices you made?** MAX MSP was chosen for its flexibility in sound synthesis and its suitability for prototyping.

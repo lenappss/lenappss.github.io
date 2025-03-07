@@ -53,15 +53,15 @@ The work diary highlights progress on additive and vector synthesis modules, cha
 ### Reflection on Technical Choices
 - **Why did you make the choices you made?** MAX MSP was chosen for its flexibility in sound synthesis and its suitability for prototyping.
 - **What worked well, what didn’t?** The additive and vector synthesis modules were successfully implemented, but some advanced features (e.g., global modulation) were not fully realized due to time constraints.
-- **What would you do differently next time?** Allocate more time for advanced modulation options and explore additional synthesis techniques.
+- **What would you do differently next time?** generally I am happy with my work and that I was prepared enough for this specific project because I spent enough time for learning basics of MAX MSP and sounds synthesis.
 
 ### Reflection on MVP and Best-Case Scenario Plans
-- **What did you achieve, and what didn’t you achieve?** The baseline solution (additive and vector synthesis modules) was achieved, but the best-case solution (polished synthesizer with advanced controls) was not fully realized.
+- **What did you achieve, and what didn’t you achieve?** The baseline solution (additive and vector synthesis modules) was achieved, but the best-case solution (polished synthesizer with advanced controls and integration of VVVV) was not fully realized.
 - **Why were some goals not met?** Time constraints and the complexity of implementing advanced features.
 
 ### Challenge of Your Comfort Zone
-- **What was new for you, and what did you learn?** Deepening knowledge of vector synthesis and MAX MSP, as well as exploring advanced sound design techniques.
-- **What was the most difficult part of the project?** Implementing dynamic sound morphing and ensuring smooth modulation.
+- **What was new for you, and what did you learn?** Deepening knowledge of MAX MSP, as well as exploring advanced sound design techniques.
+- **What was the most difficult part of the project?** combining all smaller modules into one system.
 
 ### Reflection on Original Work Plan and Timeline
 - **Did you follow your plan?** The plan was mostly followed, but some advanced features were not fully implemented.

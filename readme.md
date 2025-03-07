@@ -91,17 +91,3 @@ All source and project files are available in this repository. Below is a list o
 - `docs/`: Includes project documentation and research notes.
 - `assets/`: Holds audio samples and experimental results.
 
-Alternatively, you can access the files via this link: [Link to external repository or online storage].
-
----
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- A. Cipriani for the foundational knowledge on synthesis techniques.
-- [Add any other individuals, organizations, or resources that helped with the project.]

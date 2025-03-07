@@ -49,6 +49,7 @@ Future work could expand the synthesizer with additional synthesis methods (e.g.
 
 ### Work Diary
 The work diary highlights progress on additive and vector synthesis modules, challenges in MAX MSP implementation, and lessons learned from experimentation.
+
 Week 1:
 
 - Finishing chapters onadditive and vector synthesis (Cipriani book).

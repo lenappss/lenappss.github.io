@@ -1,18 +1,16 @@
 # Soundscape Synthesizer with MAX MSP
 
-**Link to Polished Website:** [Click here to view the live website](https://yourwebsiteurl.com)
-
 ---
 
 ## Description
 
-This project aims to develop a prototype soundscape synthesizer using MAX MSP, focusing on additive and vector synthesis techniques to create immersive soundscapes. The technical implementation involves MAX MSP for sound synthesis and research materials such as Cipriani’s book. The goal is to explore advanced sound design techniques and lay the groundwork for future research and development in immersive audio experiences.
+This project aims to develop a prototype soundscape synthesizer using MAX MSP, focusing on additive and vector synthesis techniques to create immersive soundscapes. The technical implementation involves MAX MSP for sound synthesis and research materials such as Cipriani’s book "Electronic music and sound design in MAX MSP". The goal is to explore advanced sound design techniques and lay the groundwork for future research and development in immersive audio experiences and building a functional experemental synth.
 
 ---
 
 ## Context and Related Work
 
-This project is inspired by foundational sound synthesis techniques like additive and vector synthesis, as well as related works such as *Electronic Music and Sound Design* by A. Cipriani. It builds upon existing synthesis methods and aims to extend them by creating a unique tool for immersive sound design, with potential applications in experimental music and multimedia art.
+This project is inspired by foundational sound synthesis techniques like additive and vector synthesis, as well as related works such as *Electronic Music and Sound Design* by A. Cipriani. It builds upon existing synthesis methods and aims to extend them by creating a unique tool for immersive sound design, with potential applications in experimental music and A/V art.
 
 ---
 
@@ -31,13 +29,13 @@ The project focuses on designing a tool for creating immersive soundscapes, blen
 The synthesizer is implemented in MAX MSP, with modules for additive and vector synthesis. The additive synthesis module enables users to create complex sounds by combining multiple sine waves, while the vector synthesis module allows morphing between sound sources for dynamic sound evolution.
 
 ### Research / Experimentation
-Research includes studying synthesis techniques from Cipriani’s book. Experimentation focuses on effective ways to control and modulate sound parameters, such as amplitude, frequency, and blending ratios.
+Research includes studying synthesis techniques from Cipriani’s book and combing learnt technics into more complex system. Experimentation focuses on effective ways to control and modulate sound parameters, such as amplitude, frequency, and blending ratios.
 
 ---
 
 ## Discussion of Results
 
-The results demonstrate the feasibility of creating a soundscape synthesizer using MAX MSP. The additive and vector synthesis modules provide a solid foundation for generating immersive soundscapes, while the research offers valuable insights into advanced sound design techniques. Challenges included the steep learning curve of MAX MSP and the complexity of implementing dynamic sound morphing.
+The results demonstrate the feasibility of creating a soundscape synthesizer using MAX MSP. The additive and vector synthesis modules provide a solid foundation for generating immersive soundscapes, while the research offers valuable insights into advanced sound design techniques. Challenges included the steep learning curve of MAX MSP and the complexity of combining modules into coherent functional system.
 
 ---
 

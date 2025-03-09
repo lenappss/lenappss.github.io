@@ -98,6 +98,5 @@ Week 5:
 All source and project files are available in this repository. Below is a list of key files and folders:
 
 - `src/`: Contains all MAX MSP patches.
-- `docs/`: Includes project documentation and research notes.
 - `assets/`: Holds audio samples and experimental results.
 

@@ -71,12 +71,13 @@ Week 3:
   
 Week 4:
 
+- combining all modules into one system
 - Initial testing and debugging.
 
 Week 5:
 
 - Document results and refine system.
-- Finalize the prototype.
+- Finalize the prototype (synchronization, de-bugging, etc)
 - Prepare final documentatin.
 
 

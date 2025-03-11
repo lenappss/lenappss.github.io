@@ -1,6 +1,6 @@
 # Soundscape Synthesizer with MAX MSP
 
-![Screenshot 1](/https://github.com/ctechfilmuniversity/project_ws2425_first_term/blob/main/vasilkova/pics/Screenshot1.png )
+![Screenshot 1](https://github.com/ctechfilmuniversity/project_ws2425_first_term/blob/main/vasilkova/pics/Screenshot1.png )
 
 ---
 
